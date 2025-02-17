@@ -28,5 +28,5 @@ locals {
 }
 
 resource "aws_s3_bucket" "s3-tf" {
- bucket = "weixiong123-s3-tf-bkt-255945442255"
+  bucket = "weixiong123-s3-tf-bkt-255945442255"
 }
